@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. my dogs
+2. learning new things
+3. good weather
